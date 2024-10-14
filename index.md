@@ -2,9 +2,11 @@
 título: BMW
 layout: home
 ---
-![Logo BMW](https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2020/03/nuevo-logo-bmw-1891563.jpg?tf=3840x)
+
 #BMW
 Todo empezó con motores de aviones, luego motocicletas y finalmente automóviles, que han sido hitos en el deporte del motor desde el principio. Durante casi 90 años, BMW como empresa ha dejado constantemente su huella en ella. Encontrarás toda la información sobre el compromiso de BMW Classic: desde los archivos históricos, pasando por la recogida del vehículo, la comunicación y el museo, hasta los clubs internacionales.
+
+![Logo BMW](https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2020/03/nuevo-logo-bmw-1891563.jpg?tf=3840x)
 
 ##HISTORIA BMW
 BMW se mueve: en el aire, en la carretera, en la competición. Los avances excepcionales, la tecnología impresionante y un compromiso apasionado han convertido a BMW en una marca que se siente en casa en todo el mundo. Desde el primer récord mundial en 1919 hasta el presente, y desde el primer carburador para gran altitud hasta el vehículo híbrido producido en serie.
