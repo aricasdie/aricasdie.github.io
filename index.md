@@ -2,14 +2,14 @@
 título: BMW
 layout: home
 ---
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+#BMW
+Todo empezó con motores de aviones, luego motocicletas y finalmente automóviles, que han sido hitos en el deporte del motor desde el principio. Durante casi 90 años, BMW como empresa ha dejado constantemente su huella en ella. Encontrarás toda la información sobre el compromiso de BMW Classic: desde los archivos históricos, pasando por la recogida del vehículo, la comunicación y el museo, hasta los clubs internacionales.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+##HISTORIA BMW
+BMW se mueve: en el aire, en la carretera, en la competición. Los avances excepcionales, la tecnología impresionante y un compromiso apasionado han convertido a BMW en una marca que se siente en casa en todo el mundo. Desde el primer récord mundial en 1919 hasta el presente, y desde el primer carburador para gran altitud hasta el vehículo híbrido producido en serie.
 
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+##DISEÑO BMW
+Nuestra visión del diseño es crear mucho más que un coche. Para nosotros, el diseño es crear emociones y despertar la pasión antes incluso de emprender un viaje. Las dinámicas líneas exteriores junto con un perfecto acabado interior son la firma BMW. La carretera es su galería, donde podrás disfrutar de la belleza y sentir el placer de conducir. Arranca el motor y comprenderás que la creación de un BMW no es sólo una ciencia, es un arte.
 
 Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
