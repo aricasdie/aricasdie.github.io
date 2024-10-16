@@ -1,5 +1,5 @@
 ---
-título: Tipos de coches
+title: Tipos de coches
 layout: home
 ---
 
