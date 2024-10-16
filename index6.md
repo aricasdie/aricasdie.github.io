@@ -5,6 +5,8 @@ parent: Tuning
 ---
 Modernizar la tecnología y el sistema de sonido en un BMW puede transformar completamente la experiencia a bordo, fusionando innovación con el placer de conducción.
 
+![BMW](https://www.laguiadelmotor.net/wp-content/uploads/2022/06/M3-Touring-02_Guia_del_Motor.jpg)
+
 ## Sistemas de Infoentretenimiento Avanzados
 Actualizar el sistema de infoentretenimiento no solo mejora la interacción del conductor con el vehículo, sino que también añade funcionalidades como la navegación avanzada, conectividad mejorada con dispositivos móviles, y acceso a servicios en línea. Estos sistemas suelen venir con pantallas táctiles de alta resolución que hacen que la interfaz sea más intuitiva y accesible.
 
