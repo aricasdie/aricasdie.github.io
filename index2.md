@@ -7,13 +7,12 @@ BMW siempre ha puesto mucho interés a la forma como identifica sus coches, estu
 
 Fue solo después de la segunda guerra mundial, que la fabricación de coches pasó a ser su principal prioridad. Desde allí, al igual que como lo hace Mercedes Benz pasó a identificar sus coches con series numeradas, utilizando un sistema alfanumérico. Aquí vas a aprender qué son las series de BMW y la manera como se clasifican, entre otros aspectos relevantes.
 
-## ¿Qué son las series de BMW?
+# ¿Qué son las series de BMW?
 Como se ha indicado en el párrafo anterior, BMW, de la misma manera que lo hace el fabricante Mercedes Benz, identifica sus coches con un sistema alfanumérico. BMW utiliza series numeradas que van desde la Serie 1 hasta la Serie 8.
 
 Desde el Serie 1, el cual se encuentra centrado en la ciudad hasta el lujoso Serie 8, cada coche diseñado por BMW cuenta con un diseño único y extraordinario. Cada modelo tiene un nombre que sigue una codificación de letras y números, como la de otros fabricantes de coches en el mundo y sus competidores alemanes Mercedes Benz y Audi.
 
-## La Serie BMW y su descripción general
-
+# La Serie BMW y su descripción general
 La clave para descifrar los nombres de los coches BMW, puede realizarse de la siguiente manera: Utilizaremos como ejemplo el coche BMW 745e que es un híbrido enchufable. El primer número de la combinación de 3 dígitos, representa la serie a la cual pertenece y mientras mayor sea el número, más grande será el coche.
 
 Los números pares, los fabricantes de BMW lo asignan a los modelos ultradeportivos, como los coupés. Los dos dígitos que vienen a continuación, es decir, el 45 en el 745e, sirven para indicar la cilindrada del motor. El 745e es un coche con un motor eléctrico y el número 45 nos indica que tiene una potencia de entre 300 y 350 kW.
@@ -22,8 +21,8 @@ La última parte de la codificación de un coche BMW incluye una letra minúscul
 
 Los coches que cuentan con tracción total tienen la codificación xDrive adjunto a su nombre. Si se trata de un coche con tracción delantera o trasera lleva adjunto al nombre sDrive, en los modelos X y Z.
 
-Variaciones y adaptaciones que se vienen usando en la descripción de las series de BMW
-No siempre cuando se habla de un número de serie más grande en los coches de BMW, hablamos de un coche más grande. Esta relación sólo se da si se trata de un número de serie impar: Serie-1, Serie-3, Serie-5, Serie-7, los cuales son más grandes a medida que aumenta el número de la serie, no así con los números de serie pares.
+# Variaciones y adaptaciones que se vienen usando en la descripción de las series de BMW
+""No siempre cuando se habla de un número de serie más grande en los coches de BMW, hablamos de un coche más grande."" Esta relación sólo se da si se trata de un número de serie impar: Serie-1, Serie-3, Serie-5, Serie-7, los cuales son más grandes a medida que aumenta el número de la serie, no así con los números de serie pares.
 
 Series De Bmw
 
