@@ -5,6 +5,8 @@ parent: Tuning
 ---
 Las mejoras estéticas no son solo cuestión de apariencia, sino que también pueden contribuir significativamente a la funcionalidad y rendimiento del BMW. Un coche no solo debe verse bien, debe también reflejar las mejoras técnicas que lleva bajo el capó.
 
+![BMW](https://www.diariomotor.com/imagenes/2020/10/bmw-m3-e30-e36-p.jpg)
+
 ## Kits de Carrocería
 La instalación de kits de carrocería puede alterar dramáticamente la apariencia del BMW Serie 1, dándole un aspecto más agresivo y deportivo. Además, estos kits suelen incluir mejoras aerodinámicas como spoilers y difusores que reducen la resistencia aerodinámica y mejoran la estabilidad del vehículo a altas velocidades.
 
