@@ -1,8 +1,6 @@
 ---
 title: Tuning
 layout: home
-Parent: ancestri
-has_children: true
 ---
 # Las mejores transformaciones de BMW Serie 1 Tuneado
 En esta sección, profundizamos en las transformaciones específicas de dos modelos de BMW que han sido notablemente modificados, destacando no solo los cambios estéticos sino también las mejoras técnicas que subrayan el arte del tuning.
