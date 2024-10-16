@@ -13,6 +13,9 @@ Como se ha indicado en el párrafo anterior, BMW, de la misma manera que lo hace
 Desde el Serie 1, el cual se encuentra centrado en la ciudad hasta el lujoso Serie 8, cada coche diseñado por BMW cuenta con un diseño único y extraordinario. Cada modelo tiene un nombre que sigue una codificación de letras y números, como la de otros fabricantes de coches en el mundo y sus competidores alemanes Mercedes Benz y Audi.
 
 # La Serie BMW y su descripción general
+
+![BMW](https://mediapool.bmwgroup.com/cache/P9/202303/P90497763/P90497763-the-all-new-bmw-m2-on-location-driving-2250px.jpg)
+
 La clave para descifrar los nombres de los coches BMW, puede realizarse de la siguiente manera: Utilizaremos como ejemplo el coche BMW 745e que es un híbrido enchufable. El primer número de la combinación de 3 dígitos, representa la serie a la cual pertenece y mientras mayor sea el número, más grande será el coche.
 
 Los números pares, los fabricantes de BMW lo asignan a los modelos ultradeportivos, como los coupés. Los dos dígitos que vienen a continuación, es decir, el 45 en el 745e, sirven para indicar la cilindrada del motor. El 745e es un coche con un motor eléctrico y el número 45 nos indica que tiene una potencia de entre 300 y 350 kW.
@@ -23,6 +26,8 @@ Los coches que cuentan con tracción total tienen la codificación xDrive adjunt
 
 # Variaciones y adaptaciones que se vienen usando en la descripción de las series de BMW
 No siempre cuando se habla de un número de serie más grande en los coches de BMW, hablamos de un coche más grande. Esta relación sólo se da si se trata de un número de serie impar: Serie-1, Serie-3, Serie-5, Serie-7, los cuales son más grandes a medida que aumenta el número de la serie, no así con los números de serie pares.
+
+![BMW](https://www.diariomotor.com/imagenes/2022/10/series-de-bmw-635cb1e8f19cd-1280x721.webp)
 
 Las series pares de BMW, son hoy en día el resultado de adaptaciones probabilísticas. Las combinaciones alfanuméricas en las Series de BMW, que se encuentran después del primer número, también tienen su propia historia. Antes solían representar exclusivamente el tamaño del motor del coche, hoy se usa como una guía de la potencia aproximada que entrega el motor.
 
@@ -45,6 +50,8 @@ El tipo de coche de esta Serie no utiliza llave ni en la entrada ni en el encend
 
 Esta serie está disponible en 6 diferentes colores, tanto metálicos como no metálicos. De esta serie destaca su interior bien equipado, la amplia gama de motores que hay para elegir. Muy cómodos y divertidos de conducir, prácticos y muy espaciosos para andar en la ciudad.
 
+![BMW](https://www.autopista.es/uploads/s1/10/90/73/27/bmw-serie-1-2023-lo-que-nadie-te-ha-contado-del-nuevo-compacto-y-de-sus-versiones-deportivas.jpeg)
+
 ## BMW Serie 2
 Esta es una serie en la que BMW cuenta con más variedad. Los coches con los que cuenta los podemos encontrar en tres estilos diferentes: Coupé, Gran Coupé y Active Tourer. El Coupé se encuentra disponible en los modelos M y M Sport con motores de gasolina 220i y 230i y diesel 220d.
 
@@ -56,10 +63,14 @@ El Active Tourer, es de orientación más familiar, y cuenta con los modelos Spo
 
 Los modelos pertenecientes a esta serie son: 220i, 223i, 218d.
 
+![BMW](https://www.caetanocuzco.es/wp-content/uploads/2020/10/bmw-serie-2-fnd-banner-cuzco.jpg)
+
 ## BMW Serie 3
 Esta Serie es una de las más vendidas por BMW, desde que hizo su aparición en el mercado en al año 1970. Se encuentra disponible con carrocería Berlina y Touring. Es un cómodo cinco puertas, que ofrece una excelente conducción y es más especioso. Se encuentra disponible en cuatro modelos: SE Pro, M Sport, Sport Pro y M Models.
 
 La Serie 3 de MRW ofrece motores a gasolina, diésel e híbrido enchufable en toda la gama. Modelos disponibles en esta serie: 318i, 320i, 320i xDrive, 330i, 318d, 320d, 320d, xDrive, 330d, 330d xDrive, 330e, 330e xDrive. Ofrecen altos niveles de equipamiento, bajo ruido al desplazarse y excelentes diseños.
+
+![BMW](https://static.motor.es/fotos-noticias/2022/05/bmw-serie-3-2023-202287064-1652862040_2.jpg)
 
 ## BMW Serie 4
 La Serie 4 de BMW sale al mercado en el año 2014, y actualmente viene en 3 tipos de carrocería: Coupé, Cabrio y Gran Coupé. Esta serie cuentan con varios tipos de motor que van desde el 420i hasta el 440i xDrive. Las salidas de potencia van desde un 4 cilindros de 248 hp hasta un 6 en línea de 503 hp en el M4.
@@ -67,6 +78,8 @@ La Serie 4 de BMW sale al mercado en el año 2014, y actualmente viene en 3 tipo
 Vienen con una caja de cambios manual de 6 velocidades o con cambio automático de 8 velocidades. También encontramos la Serie M que cuenta con un motor turboalimentado de 6 cilindros en línea de 4 litros. El diseño de estos coches es impresionante, cuentan con un gran motor y excelente maniobrabilidad.
 
 Los modelos que pertenecen a esta serie son: 420i, 430i, 420d, 420d xDrive.
+
+![BMW](https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2015/05/prueba-bmw-serie-4-m-performance.jpg)
 
 ## BMW Serie 5
 Los coches de la Serie 5 de BMW se puede decir que son los coches medianos de la firma. Fue la primera serie numerada de la firma, la cual hizo su aparición a principio de los años 70 del siglo XXI. Esta serie está representada desde sus inicios por una berlina de 5 puertas de lujo que nos ofrece una experiencia de conducción superior.
@@ -77,6 +90,8 @@ En esta serie también se encuentra el M5, que es un coche que sobresale en su t
 
 Los modelos que pertenecen a esta serie son: 520i, 520d, 520d xDrive, 530d xDrive, M5, Competencia M.
 
+![BMW](https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/11/14/65534df129628.r_d.1200-1121-5641.jpeg)
+
 ## BMW Serie 6
 La Serie 6 de BMW se encuentra representada por un grupo de coches Coupé y coches convertibles que ofrecían elegancia y exclusividad. Esta serie resultó ser muy peculiar. Resultó ser la serie de coches con menor demanda de BMW, siendo suspendida su producción en 1989 hasta el año 2004.
 
@@ -86,10 +101,14 @@ En el año 2016 BMW lanza el Serie 6 Gran Coupé, como una estrategia para recup
 
 Este coche fue reemplazado por el Serie 8 Gran Coupé 2020. BMW también reemplazó al Serie 6 coupé y convertible. Se espera que para el 2026 BMW relance la serie, fusionando los coches de la Serie 4 y 8, para impulsar una nueva generación de la Serie 6.
 
+![BMW](https://s2.best-wallpaper.net/wallpaper/1600x900/1310/Red-BMW-M6-car-design_1600x900.jpg)
+
 ## BMW Serie 7
 La Serie 7 está representada por la Berlina de lujo, que se considera uno de los coches insignia de la marca. Cuenta con 2 variantes, la Berlina estándar y un modelo de Berlina 200 mm más larga, para ofrecer una mayor comodidad a los pasajeros. Cuenta con un techo panorámico techo panorámico ‘Sky Lounge’ y butacas masajeadoras.
 
 Ofrece una forma más lujosa de conducir, sin dejar de tener potencia, ofreciendo una excelente experiencia de conducción. La serie cuenta con los siguientes modelos: 740i, 745e, 750i, 730d, 730d xDrive, 740d xDrive.
+
+![BMW](https://i.pinimg.com/736x/c7/ec/f4/c7ecf4ecf67f962f21aeadf5a25c4bfa.jpg)
 
 ## BMW serie 8
 Esta serie está representada por un moderno coupé de lujo de tamaño completo, que viene con un diseño de coche descapotable, como el Gran Coupé de 4 puertas o como coupé M. Se puede pedir en tres estilos de carrocería: coupé, descapotable y gran cupé de 4 puertas.
@@ -99,3 +118,5 @@ Desde donde se le quiera ver, los coches de esta serie son impresionantes y todo
 Su motor tiene una potencia de más de 625 HP, frenos compuestos, diferencial distintivo y un impresionante sistema de enfriamiento de pista.
 
 Los modelos de coche con los que cuenta la serie son: 840i xDrive, M850i xDrive y Competencia M8. Su mayor desventaja es que esta serie es la más costosa de BMW. Esta serie cuenta con los motores Turboalimentado de 6 cilindros en línea de 3.0 litros y V8 turbocargado de 4.4 litros.
+
+![BMW](https://www.bmw.com.do/content/dam/bmw/common/all-models/m-series/m8-coupe/2019/inspire/bmw-m8competition-coupe-inspire-sp-desktop_v2.jpg)
