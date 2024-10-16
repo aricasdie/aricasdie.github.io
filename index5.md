@@ -5,7 +5,7 @@ parent: Tuning
 ---
 Las modificaciones de rendimiento en el BMW abarcan desde ajustes sutiles hasta transformaciones radicales, todas destinadas a optimizar tanto la potencia como la experiencia al volante. Estas mejoras no solo reflejan las capacidades técnicas del vehículo sino que también permiten a los propietarios personalizar su conducción a un nivel más íntimo y satisfactorio.
 
-![BMW](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRB7QBybb4RVHdCtpAAZGqvWFNzm_9Bz5Gg&s](https://www.diariomotor.com/imagenes/2020/10/bmw-m3-e30-e36-p.jpg)
+![BMW](https://www.diariomotor.com/imagenes/2020/10/bmw-m3-e30-e36-p.jpg)
 
 ## Reprogramación de la ECU
 La reprogramación del controlador electrónico del motor (ECU) es una de las modificaciones más comunes y efectivas. Este ajuste fino permite mejorar tanto la potencia como el par motor, ofreciendo un incremento notable en el rendimiento general del vehículo.
